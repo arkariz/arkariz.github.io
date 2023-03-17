@@ -1,6 +1,6 @@
 {
-    "name": "kredit_plus_test",
-    "short_name": "kredit_plus_test",
+    "name": "bootcamp_flutter",
+    "short_name": "bootcamp_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
